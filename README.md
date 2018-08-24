@@ -31,9 +31,9 @@ POST http://localhost:3000/api/employee
 | Param | Type | Remarks |
 | --- | --- | --- |
 | EmployeeID | string |  |
-| EmployeeName | integer | |
-| EmployeeCompany | datetime|  |
-| EmployeeTrade | integer | Tracker's id  |
+| EmployeeName | string | |
+| EmployeeCompany | string|  |
+| EmployeeTrade | string |   |
 | Movement | integer | 0=>in 1=>out  |
 | TimeStamp | datetime |   |
 ```json
