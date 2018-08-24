@@ -21,12 +21,23 @@ Set-Up
 `npm run release`
 ## Integration 
 ---
-EndPoint :
-	http://localhost:3000/api/employee
 
-Authentication :	NO
-Type :	Post
-Body :  Request	{
+#### Endpoint
+``` http
+POST http://localhost:3000/api/employee
+```
+
+#### Request body
+| Param | Type | Remarks |
+| --- | --- | --- |
+| EmployeeID | string |  |
+| EmployeeName | integer | |
+| EmployeeCompany | datetime|  |
+| EmployeeTrade | integer | Tracker's id  |
+| Movement | integer | 0=>in 1=>out  |
+| TimeStamp | datetime |   |
+```json
+{
 "EmployeeID":"100",
 "EmployeeName":"James",
 "EmployeeCompany":"abd",
@@ -35,8 +46,12 @@ Body :  Request	{
 "Movement":"0",
 “TimeStamp”: “2015-05-16T05:50:06”
 }
-Body Response:	200 OK
----
+```
+#### Response body
+N.A.
+
+
+
 
 Note :
 Kindly run commands same order 
