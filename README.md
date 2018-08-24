@@ -4,8 +4,8 @@
    - ##  VSCode 
    - ## Visual Studio 
 
-Angular Commands 
-Set-Up
+## Angular Commands 
+### Set-Up
 
 `npm install -g @angular/cli`
 
