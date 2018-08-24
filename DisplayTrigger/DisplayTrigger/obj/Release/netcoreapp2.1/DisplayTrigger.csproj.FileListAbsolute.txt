@@ -1,0 +1,14 @@
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\bin\Release\netcoreapp2.1\DisplayTrigger.deps.json
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\bin\Release\netcoreapp2.1\DisplayTrigger.runtimeconfig.json
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\bin\Release\netcoreapp2.1\DisplayTrigger.runtimeconfig.dev.json
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\bin\Release\netcoreapp2.1\DisplayTrigger.dll
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\bin\Release\netcoreapp2.1\DisplayTrigger.pdb
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.csprojAssemblyReference.cache
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.csproj.CoreCompileInputs.cache
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.RazorAssemblyInfo.cache
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.RazorAssemblyInfo.cs
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.AssemblyInfoInputs.cache
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.AssemblyInfo.cs
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.RazorTargetAssemblyInfo.cache
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.dll
+C:\Users\phani.CORP\source\repos\DisplayTrigger\DisplayTrigger\obj\Release\netcoreapp2.1\DisplayTrigger.pdb
