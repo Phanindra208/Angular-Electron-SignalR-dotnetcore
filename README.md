@@ -1,8 +1,12 @@
 ﻿# Angular-Electron-SignalR-dotnetcore
- # Tooling 
+
+# Architecture
+![alt text](https://github.com/Phanindra208/Angular-Electron-SignalR-dotnetcore/blob/master/Untitled%20Diagram%20(1).jpg)
+# Tooling 
    - ##  NodeJS 
    - ##  VSCode 
    - ## Visual Studio 
+
 
 ## Angular Commands 
 ### Set-Up
