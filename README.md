@@ -59,7 +59,7 @@ N.A.
 
 
 
-Note :
-Kindly run commands same order 
-Kindly run API server first
+### Note :
+- Kindly run commands same order 
+- Kindly run API server first
 
