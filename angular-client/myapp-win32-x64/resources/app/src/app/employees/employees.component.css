@@ -1,0 +1,72 @@
+
+.highlight{
+    background: #42A948; /* green */
+  }
+.layout-topbar {
+    height: 55px;
+    background-color: black;
+    padding: 16px 42px 16px 24px;
+    width: 100%;
+    -moz-transition: width 0.3s;
+    -o-transition: width 0.3s;
+    -webkit-transition: width 0.3s;
+    transition: width 0.3s;
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 4px 5px 0 rgba(0, 0, 0, 0.14);
+    -moz-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 4px 5px 0 rgba(0, 0, 0, 0.14);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 4px 5px 0 rgba(0, 0, 0, 0.14);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.main-content{
+    margin-top: 15px;
+}
+
+
+.selected {
+    background-color: red !important;
+    color: white;
+  }
+  .Employees {
+    margin: 0 0 2em 0;
+    list-style-type: none;
+    padding: 0;
+    width: 15em;
+  }
+  .Employees li {
+    cursor: pointer;
+    position: relative;
+    /* left: 0; */
+    background-color: #EEE;
+    /* margin: .5em;
+    padding: .3em 0;
+    height: 1.6em; */
+    /* border-radius: 4px; */
+  }
+  .Employees li.selected:hover {
+    background-color: #BBD8DC !important;
+    color: white;
+  }
+  .Employees li:hover {
+    color: #607D8B;
+    background-color: #DDD;
+    left: .1em;
+  }
+  .Employees .text {
+    position: relative;
+    top: -3px;
+  }
+  .Employees .badge {
+    display: inline-block;
+    font-size: large;
+    /* color: white; */
+    padding: 0.8em 0.7em 0 0.7em;
+    /* background-color: #607D8B; */
+    line-height: 1em;
+    position: relative;
+    left: -1px;
+    top: -4px;
+    height: 1.8em;
+    margin-right: .8em;
+    border-radius: 4px 0 0 4px;
+  }
