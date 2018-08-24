@@ -1,6 +1,6 @@
 ﻿# Angular-Electron-SignalR-dotnetcore
 
-# Architecture
+## Architecture
 ![alt text](https://github.com/Phanindra208/Angular-Electron-SignalR-dotnetcore/blob/master/Untitled%20Diagram%20(1).jpg)
 # Tooling 
    - ##  NodeJS 
