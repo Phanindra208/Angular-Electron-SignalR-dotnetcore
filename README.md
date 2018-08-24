@@ -1,8 +1,8 @@
 ﻿# Angular-Electron-SignalR-dotnetcore
  # Tooling 
- **NodeJS**
- **VSCode**
-**Visual Studio**
+   - ##  NodeJS 
+   - ##  VSCode 
+   - ## Visual Studio 
 
 Angular Commands 
 Set-Up
@@ -44,7 +44,7 @@ POST http://localhost:3000/api/employee
 "EmployeeTrade":"dlm",
 "EmployeeDept":"std",
 "Movement":"0",
-“TimeStamp”: “2015-05-16T05:50:06”
+"TimeStamp": "2015-05-16T05:50:06"
 }
 ```
 #### Response body
