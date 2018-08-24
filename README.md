@@ -8,7 +8,7 @@
 ### Set-Up
 
 `npm install -g @angular/cli`
-
+`cd  \angular-client`
 `npm Install` 
 ## Run 
 ### Web mode 
